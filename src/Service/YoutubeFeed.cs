@@ -40,8 +40,8 @@ namespace Service
                 new YouTubeService(
                     new BaseClientService.Initializer
                     {
-                        ApiKey = "AIzaSyANb4I8D4P18fh0GFzk0O_GV6i6XbnJt4Q",
-                        ApplicationName = "YouCast2020"
+                        ApiKey = "AIzaSyAIsU4rETRn2dlR2bmgh2AtSQsi8KKdQbQ",
+                        ApplicationName = "youcast-frog"
                     });
         }
 

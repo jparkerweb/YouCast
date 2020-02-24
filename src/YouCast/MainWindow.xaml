@@ -41,7 +41,7 @@
                                 VerticalContentAlignment="Center"
                                 GotFocus="_input_GotFocus_1"
                                 TextChanged="_input_TextChanged_1"
-                                Text="For example: i3arnon"/>
+                                Text="For example: Dougmysticeye"/>
                         </DockPanel>
                         <DockPanel>
                             <DockPanel>
@@ -165,7 +165,7 @@
                     <Button 
                         x:Name="YoucastLink" 
                         Style="{StaticResource LinkButton}"  
-                        Click="YoucastLink_OnClick" Content="YouCast v2.9."/>
+                        Click="YoucastLink_OnClick" Content="YouCast v2.9-jparkerweb"/>
                     <Label VerticalAlignment="Center" Content="Made by"/>
                     <Button 
                         x:Name="TwitterLink" 
